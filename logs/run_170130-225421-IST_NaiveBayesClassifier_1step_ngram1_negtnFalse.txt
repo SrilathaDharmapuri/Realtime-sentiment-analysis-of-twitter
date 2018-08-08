@@ -1,0 +1,1193 @@
+NaiveBayesClassifier_1step_ngram1_negtnFalse
+######################
+1 Step Classifier : NaiveBayesClassifier
+Accuracy : 0.741251325557
+######################
+Most Informative Features
+             has(__quer) = None              pos : neu    =    174.6 : 1.0
+               has(nexu) = 1                 neu : neg    =     82.5 : 1.0
+             has(galaxi) = 1                 neu : neg    =     76.2 : 1.0
+                has(sad) = 1                 neg : neu    =     59.6 : 1.0
+                has(que) = 1                 neu : neg    =     54.3 : 1.0
+            has(ballmer) = 1                 neu : pos    =     46.8 : 1.0
+   has(__hash_nexusprim) = 1                 neu : neg    =     44.2 : 1.0
+               has(para) = 1                 neu : pos    =     37.3 : 1.0
+                has(con) = 1                 neu : neg    =     32.8 : 1.0
+               has(hate) = 1                 neg : neu    =     32.0 : 1.0
+                has(amp) = 1                 pos : neu    =     30.1 : 1.0
+        has(__hash_nexu) = 1                 neu : neg    =     30.0 : 1.0
+            has(android) = 1                 neu : neg    =     27.5 : 1.0
+           has(sandwich) = 1                 neu : neg    =     27.3 : 1.0
+              has(steve) = 1                 neu : pos    =     27.1 : 1.0
+               has(hurt) = 1                 neg : neu    =     26.9 : 1.0
+                has(ugh) = 1                 neg : neu    =     25.3 : 1.0
+              has(sorri) = 1                 neg : neu    =     24.5 : 1.0
+                has(est) = 1                 neu : neg    =     24.3 : 1.0
+     has(__hash_android) = 1                 neu : neg    =     22.7 : 1.0
+                 has(lo) = 1                 neu : neg    =     22.5 : 1.0
+                has(del) = 1                 neu : neg    =     22.0 : 1.0
+               has(miss) = 1                 neg : neu    =     21.4 : 1.0
+              has(googl) = 1                 neu : neg    =     21.3 : 1.0
+                has(ceo) = 1                 neu : neg    =     20.8 : 1.0
+            has(samsung) = 1                 neu : neg    =     19.7 : 1.0
+has(__hash_icecreamsandwich) = 1                 neu : neg    =     19.4 : 1.0
+             has(summer) = 1                 neg : neu    =     18.3 : 1.0
+       has(__hash_cloud) = 1                 neu : neg    =     18.0 : 1.0
+               has(poor) = 1                 neg : neu    =     17.5 : 1.0
+                 has(la) = 1                 neu : pos    =     16.9 : 1.0
+             has(myself) = 1                 neg : neu    =     16.7 : 1.0
+            has(weather) = 1                 neg : neu    =     16.7 : 1.0
+              has(enjoy) = 1                 pos : neu    =     16.6 : 1.0
+              has(devic) = 1                 neu : neg    =     16.3 : 1.0
+             has(stupid) = 1                 neg : neu    =     16.0 : 1.0
+                has(sun) = 1                 neg : neu    =     16.0 : 1.0
+              has(yahoo) = 1                 neu : neg    =     15.7 : 1.0
+              has(happi) = 1                 pos : neu    =     15.7 : 1.0
+  has(__hash_dhilipsiva) = 1                 neu : pos    =     15.4 : 1.0
+                has(por) = 1                 neu : pos    =     15.3 : 1.0
+                has(soo) = 1                 neg : neu    =     15.2 : 1.0
+                has(boo) = 1                 neg : neu    =     15.2 : 1.0
+               has(wont) = 1                 neg : neu    =     15.2 : 1.0
+            has(develop) = 1                 neu : neg    =     15.1 : 1.0
+       has(__hash_googl) = 1                 neu : pos    =     15.1 : 1.0
+          has(microsoft) = 1                 neu : pos    =     14.9 : 1.0
+               has(quot) = 1                 pos : neu    =     14.6 : 1.0
+               has(exam) = 1                 neg : neu    =     14.4 : 1.0
+                has(hot) = 1                 neg : neu    =     14.4 : 1.0
+              has(cream) = 1                 neu : neg    =     14.3 : 1.0
+               has(movi) = 1                 pos : neu    =     14.2 : 1.0
+      has(__hash_galaxi) = 1                 neu : pos    =     14.1 : 1.0
+                 has(ic) = 1                 neu : neg    =     14.0 : 1.0
+           has(__hash_b) = 1                 neu : pos    =     13.6 : 1.0
+  has(__hash_galaxynexu) = 1                 neu : neg    =     13.3 : 1.0
+               has(amaz) = 1                 pos : neu    =     12.9 : 1.0
+               has(till) = 1                 neg : neu    =     12.8 : 1.0
+              has(excit) = 1                 pos : neu    =     12.6 : 1.0
+               has(okay) = 1                 pos : neu    =     12.5 : 1.0
+             has(almost) = 1                 pos : neu    =     12.5 : 1.0
+        has(touchscreen) = 1                 neu : pos    =     12.4 : 1.0
+     has(__hash_samsung) = 1                 neu : neg    =     12.4 : 1.0
+             has(unveil) = 1                 neu : neg    =     12.3 : 1.0
+       has(__hash_yahoo) = 1                 neu : pos    =     12.1 : 1.0
+      has(__hash_window) = 1                 neu : pos    =     12.1 : 1.0
+                 has(le) = 1                 neu : pos    =     11.9 : 1.0
+                has(dan) = 1                 neu : neg    =     11.7 : 1.0
+              has(sweet) = 1                 pos : neu    =     11.6 : 1.0
+               has(cant) = 1                 neg : neu    =     11.6 : 1.0
+                has(ice) = 1                 neu : neg    =     11.4 : 1.0
+       has(__hash_mobil) = 1                 neu : pos    =     11.3 : 1.0
+               has(crap) = 1                 neg : neu    =     11.3 : 1.0
+               has(wish) = 1                 neg : neu    =     11.1 : 1.0
+ has(__hash_socialmedia) = 1                 neu : neg    =     11.1 : 1.0
+               has(left) = 1                 neg : neu    =     10.8 : 1.0
+             has(rememb) = 1                 pos : neu    =     10.8 : 1.0
+              has(lunch) = 1                 pos : neu    =     10.8 : 1.0
+              has(smile) = 1                 pos : neu    =     10.8 : 1.0
+      has(__hash_kinect) = 1                 neu : pos    =     10.8 : 1.0
+              has(ebook) = 1                 neu : neg    =     10.6 : 1.0
+             has(restor) = 1                 neg : neu    =     10.5 : 1.0
+             has(beauti) = 1                 pos : neu    =     10.4 : 1.0
+                has(ill) = 1                 pos : neu    =     10.0 : 1.0
+               has(kind) = 1                 pos : neu    =     10.0 : 1.0
+            has(probabl) = 1                 pos : neu    =     10.0 : 1.0
+               has(morn) = 1                 pos : neu    =     10.0 : 1.0
+            has(brother) = 1                 pos : neu    =     10.0 : 1.0
+               has(hehe) = 1                 pos : neu    =     10.0 : 1.0
+                has(wtf) = 1                 neg : pos    =     10.0 : 1.0
+               has(slow) = 1                 neg : pos    =     10.0 : 1.0
+             has(awesom) = 1                 pos : neu    =     10.0 : 1.0
+               has(luck) = 1                 pos : neu    =      9.9 : 1.0
+               has(glad) = 1                 pos : neu    =      9.8 : 1.0
+             has(sleepi) = 1                 neg : neu    =      9.7 : 1.0
+               has(room) = 1                 neg : neu    =      9.7 : 1.0
+               has(blue) = 1                 neg : neu    =      9.7 : 1.0
+                has(ver) = 1                 neu : pos    =      9.7 : 1.0
+                has(web) = 1                 neu : pos    =      9.7 : 1.0
+               has(suck) = 1                 neg : neu    =      9.7 : 1.0
+None
+######################
+Accuracy : 0.741251325557
+Confusion Matrix
+    |   n   n   p |
+    |   e   e   o |
+    |   g   u   s |
+----+-------------+
+neg |<247> 14  58 |
+neu |  36<297> 19 |
+pos |  84  33<155>|
+----+-------------+
+(row = reference; col = test)
+
+######################
+1 Step Classifier : NaiveBayesClassifier
+Accuracy : 0.724284199364
+######################
+Most Informative Features
+             has(__quer) = None              pos : neu    =    162.7 : 1.0
+               has(nexu) = 1                 neu : neg    =     85.0 : 1.0
+                has(sad) = 1                 neg : neu    =     61.6 : 1.0
+                has(que) = 1                 neu : neg    =     57.3 : 1.0
+               has(hate) = 1                 neg : neu    =     50.9 : 1.0
+             has(galaxi) = 1                 neu : neg    =     47.9 : 1.0
+   has(__hash_nexusprim) = 1                 neu : neg    =     44.4 : 1.0
+            has(ballmer) = 1                 neu : pos    =     43.1 : 1.0
+                has(amp) = 1                 pos : neu    =     40.1 : 1.0
+               has(para) = 1                 neu : pos    =     38.1 : 1.0
+           has(sandwich) = 1                 neu : neg    =     36.9 : 1.0
+        has(__hash_nexu) = 1                 neu : neg    =     32.8 : 1.0
+            has(android) = 1                 neu : neg    =     28.3 : 1.0
+               has(hurt) = 1                 neg : neu    =     27.2 : 1.0
+               has(rain) = 1                 neg : neu    =     26.4 : 1.0
+                has(ugh) = 1                 neg : neu    =     26.4 : 1.0
+                has(est) = 1                 neu : neg    =     26.4 : 1.0
+     has(__hash_android) = 1                 neu : neg    =     25.8 : 1.0
+              has(steve) = 1                 neu : pos    =     25.5 : 1.0
+              has(sorri) = 1                 neg : neu    =     25.0 : 1.0
+              has(alway) = 1                 pos : neu    =     24.7 : 1.0
+                 has(lo) = 1                 neu : pos    =     23.3 : 1.0
+                has(del) = 1                 neu : neg    =     22.9 : 1.0
+            has(samsung) = 1                 neu : neg    =     22.1 : 1.0
+                has(con) = 1                 neu : neg    =     21.1 : 1.0
+               has(wont) = 1                 neg : neu    =     20.4 : 1.0
+            has(weather) = 1                 neg : neu    =     20.3 : 1.0
+              has(cream) = 1                 neu : neg    =     19.6 : 1.0
+       has(__hash_cloud) = 1                 neu : neg    =     19.4 : 1.0
+                has(ice) = 1                 neu : neg    =     19.4 : 1.0
+              has(googl) = 1                 neu : neg    =     19.1 : 1.0
+               has(miss) = 1                 neg : neu    =     18.7 : 1.0
+              has(enjoy) = 1                 pos : neu    =     18.7 : 1.0
+              has(happi) = 1                 pos : neu    =     18.2 : 1.0
+             has(summer) = 1                 pos : neu    =     17.4 : 1.0
+               has(noth) = 1                 neg : neu    =     17.2 : 1.0
+                has(ceo) = 1                 neu : neg    =     17.1 : 1.0
+               has(fail) = 1                 neg : pos    =     16.7 : 1.0
+                has(sun) = 1                 neg : neu    =     16.5 : 1.0
+                 has(la) = 1                 neu : pos    =     16.2 : 1.0
+              has(devic) = 1                 neu : neg    =     16.0 : 1.0
+             has(myself) = 1                 neg : neu    =     15.7 : 1.0
+                has(hot) = 1                 neg : neu    =     15.7 : 1.0
+  has(__hash_dhilipsiva) = 1                 neu : pos    =     15.6 : 1.0
+                has(por) = 1                 neu : pos    =     15.4 : 1.0
+            has(develop) = 1                 neu : neg    =     15.4 : 1.0
+       has(__hash_googl) = 1                 neu : pos    =     15.3 : 1.0
+             has(doesnt) = 1                 neg : neu    =     15.3 : 1.0
+has(__hash_icecreamsandwich) = 1                 neu : neg    =     15.1 : 1.0
+               has(cute) = 1                 pos : neu    =     15.0 : 1.0
+              has(yahoo) = 1                 neu : neg    =     14.8 : 1.0
+                has(soo) = 1                 neg : neu    =     14.5 : 1.0
+              has(sweet) = 1                 pos : neu    =     14.2 : 1.0
+             has(stupid) = 1                 neg : neu    =     14.2 : 1.0
+                has(boo) = 1                 neg : neu    =     14.2 : 1.0
+  has(__hash_galaxynexu) = 1                 neu : neg    =     14.1 : 1.0
+               has(movi) = 1                 pos : neu    =     13.8 : 1.0
+               has(cant) = 1                 neg : neu    =     13.8 : 1.0
+               has(quot) = 1                 pos : neu    =     13.8 : 1.0
+               has(took) = 1                 neg : neu    =     13.4 : 1.0
+              has(lunch) = 1                 pos : neu    =     13.4 : 1.0
+              has(wanna) = 1                 neg : neu    =     13.1 : 1.0
+ has(__hash_socialmedia) = 1                 neu : neg    =     13.1 : 1.0
+                 has(ic) = 1                 neu : neg    =     13.1 : 1.0
+     has(__hash_samsung) = 1                 neu : neg    =     13.1 : 1.0
+               has(amaz) = 1                 pos : neu    =     13.0 : 1.0
+   has(__hash_omnitouch) = 1                 neu : pos    =     12.9 : 1.0
+               has(2012) = 1                 neu : pos    =     12.9 : 1.0
+              has(wasnt) = 1                 neg : neu    =     12.6 : 1.0
+               has(hair) = 1                 neg : neu    =     12.6 : 1.0
+          has(microsoft) = 1                 neu : pos    =     12.4 : 1.0
+              has(excit) = 1                 pos : neu    =     12.0 : 1.0
+              has(smile) = 1                 pos : neu    =     11.7 : 1.0
+             has(almost) = 1                 pos : neu    =     11.7 : 1.0
+                has(ill) = 1                 pos : neu    =     11.7 : 1.0
+      has(__hash_window) = 1                 neu : pos    =     11.4 : 1.0
+               has(left) = 1                 neg : neu    =     11.3 : 1.0
+             has(unveil) = 1                 neu : neg    =     11.3 : 1.0
+              has(ebook) = 1                 neu : neg    =     11.3 : 1.0
+                has(dan) = 1                 neu : neg    =     11.3 : 1.0
+          has(__querplu) = 1                 neu : neg    =     11.3 : 1.0
+       has(__hash_mobil) = 1                 neu : pos    =     11.2 : 1.0
+                 has(le) = 1                 neu : pos    =     11.2 : 1.0
+               has(bore) = 1                 neg : neu    =     11.1 : 1.0
+               has(crap) = 1                 neg : neu    =     11.1 : 1.0
+       has(__hash_yahoo) = 1                 neu : pos    =     11.0 : 1.0
+                has(wtf) = 1                 neg : pos    =     11.0 : 1.0
+          has(__hash_ic) = 1                 neu : neg    =     11.0 : 1.0
+               has(hehe) = 1                 pos : neu    =     10.9 : 1.0
+               has(pour) = 1                 neu : neg    =     10.7 : 1.0
+        has(touchscreen) = 1                 neu : pos    =     10.7 : 1.0
+                has(ver) = 1                 neu : pos    =     10.7 : 1.0
+              has(gonna) = 1                 neg : neu    =     10.6 : 1.0
+             has(beauti) = 1                 pos : neu    =     10.4 : 1.0
+    has(__hash_facebook) = 1                 neu : pos    =     10.4 : 1.0
+               has(slow) = 1                 neg : pos    =     10.4 : 1.0
+             has(awesom) = 1                 pos : neu    =     10.4 : 1.0
+            has(without) = 1                 neg : neu    =     10.3 : 1.0
+            has(probabl) = 1                 neg : neu    =     10.3 : 1.0
+             has(restor) = 1                 neg : neu    =     10.3 : 1.0
+None
+######################
+Accuracy : 0.724284199364
+Confusion Matrix
+    |   n   n   p |
+    |   e   e   o |
+    |   g   u   s |
+----+-------------+
+neg |<208> 11  62 |
+neu |  37<296> 28 |
+pos |  92  30<179>|
+----+-------------+
+(row = reference; col = test)
+
+######################
+1 Step Classifier : NaiveBayesClassifier
+Accuracy : 0.742311770944
+######################
+Most Informative Features
+             has(__quer) = None              pos : neu    =    138.1 : 1.0
+               has(nexu) = 1                 neu : neg    =     83.7 : 1.0
+                has(sad) = 1                 neg : neu    =     63.7 : 1.0
+                has(que) = 1                 neu : neg    =     56.5 : 1.0
+             has(galaxi) = 1                 neu : neg    =     46.8 : 1.0
+   has(__hash_nexusprim) = 1                 neu : neg    =     45.2 : 1.0
+            has(ballmer) = 1                 neu : pos    =     41.8 : 1.0
+              has(steve) = 1                 neu : pos    =     40.7 : 1.0
+               has(para) = 1                 neu : pos    =     39.6 : 1.0
+                has(con) = 1                 neu : neg    =     36.5 : 1.0
+            has(android) = 1                 neu : neg    =     36.1 : 1.0
+               has(hate) = 1                 neg : neu    =     29.0 : 1.0
+              has(enjoy) = 1                 pos : neu    =     28.0 : 1.0
+               has(hurt) = 1                 neg : neu    =     27.4 : 1.0
+           has(sandwich) = 1                 neu : neg    =     27.1 : 1.0
+                has(amp) = 1                 pos : neu    =     27.0 : 1.0
+               has(rain) = 1                 neg : neu    =     26.6 : 1.0
+                has(est) = 1                 neu : neg    =     25.0 : 1.0
+                has(ugh) = 1                 neg : neu    =     24.3 : 1.0
+                has(soo) = 1                 neg : neu    =     23.6 : 1.0
+            has(samsung) = 1                 neu : neg    =     22.3 : 1.0
+                has(del) = 1                 neu : neg    =     22.2 : 1.0
+     has(__hash_android) = 1                 neu : neg    =     21.6 : 1.0
+                has(por) = 1                 neu : pos    =     21.5 : 1.0
+             has(summer) = 1                 neg : neu    =     20.5 : 1.0
+                has(ceo) = 1                 neu : pos    =     20.0 : 1.0
+               has(noth) = 1                 neg : neu    =     19.7 : 1.0
+              has(googl) = 1                 neu : neg    =     19.1 : 1.0
+               has(miss) = 1                 neg : neu    =     18.9 : 1.0
+               has(quot) = 1                 pos : neu    =     17.5 : 1.0
+      has(__hash_window) = 1                 neu : pos    =     17.2 : 1.0
+       has(__hash_cloud) = 1                 neu : neg    =     17.0 : 1.0
+            has(weather) = 1                 neg : neu    =     16.6 : 1.0
+              has(devic) = 1                 neu : neg    =     16.4 : 1.0
+              has(cream) = 1                 neu : neg    =     16.3 : 1.0
+                 has(la) = 1                 neu : pos    =     16.1 : 1.0
+              has(happi) = 1                 pos : neu    =     16.1 : 1.0
+                has(sun) = 1                 neg : neu    =     15.8 : 1.0
+                has(hot) = 1                 neg : neu    =     15.8 : 1.0
+             has(anymor) = 1                 neg : neu    =     15.8 : 1.0
+                has(boo) = 1                 neg : neu    =     15.1 : 1.0
+             has(beauti) = 1                 pos : neu    =     15.0 : 1.0
+               has(luck) = 1                 pos : neu    =     15.0 : 1.0
+                 has(lo) = 1                 neu : neg    =     15.0 : 1.0
+  has(__hash_dhilipsiva) = 1                 neu : pos    =     14.9 : 1.0
+has(__hash_icecreamsandwich) = 1                 neu : neg    =     14.9 : 1.0
+   has(__hash_omnitouch) = 1                 neu : pos    =     14.5 : 1.0
+            has(develop) = 1                 neu : neg    =     14.1 : 1.0
+                 has(ic) = 1                 neu : neg    =     14.1 : 1.0
+               has(suck) = 1                 neg : neu    =     14.1 : 1.0
+               has(wont) = 1                 neg : neu    =     14.1 : 1.0
+                 has(he) = 1                 pos : neu    =     13.4 : 1.0
+             has(almost) = 1                 pos : neu    =     13.4 : 1.0
+  has(__hash_galaxynexu) = 1                 neu : neg    =     13.2 : 1.0
+ has(__hash_socialmedia) = 1                 neu : neg    =     13.0 : 1.0
+              has(yahoo) = 1                 neu : neg    =     13.0 : 1.0
+               has(2012) = 1                 neu : pos    =     12.9 : 1.0
+              has(excit) = 1                 pos : neu    =     12.7 : 1.0
+                has(ice) = 1                 neu : neg    =     12.7 : 1.0
+               has(okay) = 1                 pos : neu    =     12.6 : 1.0
+              has(smile) = 1                 pos : neu    =     12.6 : 1.0
+              has(sweet) = 1                 pos : neu    =     12.6 : 1.0
+               has(glad) = 1                 pos : neu    =     12.4 : 1.0
+          has(microsoft) = 1                 neu : pos    =     12.4 : 1.0
+                has(dan) = 1                 neu : neg    =     12.4 : 1.0
+     has(__hash_samsung) = 1                 neu : neg    =     12.2 : 1.0
+              has(stuck) = 1                 neg : neu    =     12.0 : 1.0
+              has(lunch) = 1                 pos : neu    =     11.8 : 1.0
+           has(__hash_b) = 1                 neu : pos    =     11.8 : 1.0
+        has(__hash_tech) = 1                 neu : pos    =     11.8 : 1.0
+               has(lost) = 1                 neg : pos    =     11.6 : 1.0
+        has(touchscreen) = 1                 neu : pos    =     11.2 : 1.0
+                 has(le) = 1                 neu : pos    =     11.2 : 1.0
+             has(restor) = 1                 neg : neu    =     11.2 : 1.0
+              has(drink) = 1                 neg : neu    =     11.2 : 1.0
+            has(brother) = 1                 pos : neu    =     11.0 : 1.0
+               has(amaz) = 1                 pos : neu    =     11.0 : 1.0
+                has(bad) = 1                 neg : neu    =     10.9 : 1.0
+               has(cant) = 1                 neg : neu    =     10.9 : 1.0
+         has(__hash_new) = 1                 neu : pos    =     10.7 : 1.0
+       has(__hash_mobil) = 1                 neu : pos    =     10.7 : 1.0
+                has(ver) = 1                 neu : pos    =     10.7 : 1.0
+       has(__hash_yahoo) = 1                 neu : pos    =     10.7 : 1.0
+          has(__querplu) = 1                 neu : neg    =     10.6 : 1.0
+            has(current) = 1                 neg : neu    =     10.4 : 1.0
+               has(fall) = 1                 neg : neu    =     10.4 : 1.0
+               has(left) = 1                 neg : neu    =     10.4 : 1.0
+             has(doesnt) = 1                 neg : neu    =     10.2 : 1.0
+       has(__hash_googl) = 1                 neu : pos    =     10.2 : 1.0
+    has(__hash_stevejob) = 1                 neu : pos    =     10.1 : 1.0
+                has(dia) = 1                 neu : pos    =     10.1 : 1.0
+              has(ebook) = 1                 neu : neg    =     10.1 : 1.0
+               has(fail) = 1                 neg : pos    =     10.1 : 1.0
+                has(ill) = 1                 pos : neu    =      9.8 : 1.0
+               has(morn) = 1                 pos : neu    =      9.8 : 1.0
+             has(awesom) = 1                 pos : neu    =      9.8 : 1.0
+               has(room) = 1                 neg : neu    =      9.7 : 1.0
+               has(blue) = 1                 neg : neu    =      9.7 : 1.0
+            has(probabl) = 1                 neg : neu    =      9.7 : 1.0
+               has(crap) = 1                 neg : neu    =      9.7 : 1.0
+None
+######################
+Accuracy : 0.742311770944
+Confusion Matrix
+    |   n   n   p |
+    |   e   e   o |
+    |   g   u   s |
+----+-------------+
+neg |<218> 12  64 |
+neu |  31<294> 24 |
+pos |  87  25<188>|
+----+-------------+
+(row = reference; col = test)
+
+######################
+1 Step Classifier : NaiveBayesClassifier
+Accuracy : 0.720806794055
+######################
+Most Informative Features
+             has(__quer) = None              pos : neu    =    155.0 : 1.0
+                has(que) = 1                 neu : neg    =     93.3 : 1.0
+             has(galaxi) = 1                 neu : neg    =     47.4 : 1.0
+            has(ballmer) = 1                 neu : pos    =     44.6 : 1.0
+   has(__hash_nexusprim) = 1                 neu : neg    =     44.2 : 1.0
+               has(para) = 1                 neu : pos    =     39.1 : 1.0
+            has(android) = 1                 neu : neg    =     34.6 : 1.0
+        has(__hash_nexu) = 1                 neu : neg    =     30.0 : 1.0
+               has(hate) = 1                 neg : neu    =     29.2 : 1.0
+                has(amp) = 1                 pos : neu    =     29.1 : 1.0
+               has(hurt) = 1                 neg : neu    =     28.4 : 1.0
+              has(sorri) = 1                 neg : neu    =     28.3 : 1.0
+           has(sandwich) = 1                 neu : neg    =     26.3 : 1.0
+              has(steve) = 1                 neu : pos    =     25.8 : 1.0
+  has(__hash_dhilipsiva) = 1                 neu : pos    =     25.4 : 1.0
+               has(rain) = 1                 neg : neu    =     25.3 : 1.0
+               has(miss) = 1                 neg : neu    =     25.3 : 1.0
+                has(est) = 1                 neu : neg    =     24.8 : 1.0
+     has(__hash_android) = 1                 neu : neg    =     23.8 : 1.0
+                 has(lo) = 1                 neu : pos    =     23.8 : 1.0
+                has(ugh) = 1                 neg : neu    =     23.0 : 1.0
+            has(samsung) = 1                 neu : neg    =     22.1 : 1.0
+                has(ceo) = 1                 neu : neg    =     20.3 : 1.0
+                has(del) = 1                 neu : neg    =     20.3 : 1.0
+                has(con) = 1                 neu : neg    =     20.0 : 1.0
+       has(__hash_cloud) = 1                 neu : neg    =     19.7 : 1.0
+               has(wont) = 1                 neg : neu    =     19.4 : 1.0
+               has(noth) = 1                 neg : neu    =     19.1 : 1.0
+             has(summer) = 1                 neg : neu    =     19.1 : 1.0
+              has(happi) = 1                 pos : neu    =     18.8 : 1.0
+             has(myself) = 1                 neg : neu    =     18.3 : 1.0
+              has(enjoy) = 1                 pos : neu    =     18.3 : 1.0
+              has(cream) = 1                 neu : neg    =     17.8 : 1.0
+              has(googl) = 1                 neu : neg    =     17.6 : 1.0
+                 has(la) = 1                 neu : pos    =     16.7 : 1.0
+                has(sun) = 1                 neg : neu    =     16.0 : 1.0
+                has(hot) = 1                 neg : neu    =     16.0 : 1.0
+                has(por) = 1                 neu : pos    =     15.1 : 1.0
+              has(yahoo) = 1                 neu : neg    =     15.1 : 1.0
+                has(soo) = 1                 neg : neu    =     14.7 : 1.0
+               has(quot) = 1                 pos : neu    =     14.5 : 1.0
+               has(movi) = 1                 pos : neu    =     14.4 : 1.0
+              has(gotta) = 1                 pos : neu    =     14.2 : 1.0
+                 has(he) = 1                 pos : neu    =     14.2 : 1.0
+              has(sweet) = 1                 pos : neu    =     14.2 : 1.0
+has(__hash_icecreamsandwich) = 1                 neu : neg    =     13.8 : 1.0
+  has(__hash_galaxynexu) = 1                 neu : neg    =     13.8 : 1.0
+               has(poor) = 1                 neg : pos    =     13.7 : 1.0
+             has(stupid) = 1                 neg : neu    =     13.6 : 1.0
+                has(ice) = 1                 neu : neg    =     13.5 : 1.0
+              has(smile) = 1                 pos : neu    =     13.4 : 1.0
+   has(__hash_omnitouch) = 1                 neu : pos    =     13.4 : 1.0
+               has(2012) = 1                 neu : pos    =     13.4 : 1.0
+          has(microsoft) = 1                 neu : neg    =     12.9 : 1.0
+                 has(ic) = 1                 neu : neg    =     12.8 : 1.0
+    has(__hash_facebook) = 1                 neu : neg    =     12.8 : 1.0
+               has(okay) = 1                 pos : neu    =     12.6 : 1.0
+              has(lunch) = 1                 pos : neu    =     12.6 : 1.0
+             has(almost) = 1                 pos : neu    =     12.6 : 1.0
+      has(__hash_window) = 1                 neu : neg    =     12.5 : 1.0
+        has(touchscreen) = 1                 neu : pos    =     12.3 : 1.0
+           has(__hash_b) = 1                 neu : pos    =     12.3 : 1.0
+               has(cant) = 1                 neg : neu    =     12.0 : 1.0
+              has(gonna) = 1                 neg : neu    =     11.8 : 1.0
+               has(amaz) = 1                 pos : neu    =     11.8 : 1.0
+                has(ill) = 1                 pos : neu    =     11.7 : 1.0
+                has(dan) = 1                 neu : neg    =     11.7 : 1.0
+            has(announc) = 1                 neu : pos    =     11.7 : 1.0
+              has(excit) = 1                 pos : neu    =     11.3 : 1.0
+                 has(le) = 1                 neu : pos    =     11.2 : 1.0
+              has(worst) = 1                 neg : pos    =     11.2 : 1.0
+     has(__hash_samsung) = 1                 neu : neg    =     11.1 : 1.0
+             has(unveil) = 1                 neu : neg    =     11.1 : 1.0
+       has(__hash_yahoo) = 1                 neu : pos    =     11.0 : 1.0
+               has(cute) = 1                 pos : neu    =     11.0 : 1.0
+              has(sound) = 1                 pos : neu    =     11.0 : 1.0
+             has(rememb) = 1                 pos : neu    =     11.0 : 1.0
+             has(awesom) = 1                 pos : neu    =     10.8 : 1.0
+                has(ver) = 1                 neu : pos    =     10.7 : 1.0
+          has(__hash_ic) = 1                 neu : neg    =     10.7 : 1.0
+ has(__hash_socialmedia) = 1                 neu : neg    =     10.6 : 1.0
+              has(ebook) = 1                 neu : neg    =     10.6 : 1.0
+                has(wtf) = 1                 neg : pos    =     10.5 : 1.0
+               has(left) = 1                 neg : neu    =     10.5 : 1.0
+               has(feel) = 1                 neg : neu    =     10.5 : 1.0
+                has(bad) = 1                 neg : neu    =     10.5 : 1.0
+            has(current) = 1                 neg : neu    =     10.5 : 1.0
+               has(crap) = 1                 neg : neu    =     10.5 : 1.0
+       has(__hash_googl) = 1                 neu : pos    =     10.4 : 1.0
+              has(alway) = 1                 pos : neu    =     10.3 : 1.0
+            has(brother) = 1                 pos : neu    =     10.2 : 1.0
+               has(news) = 1                 neu : pos    =     10.1 : 1.0
+    has(__hash_stevejob) = 1                 neu : pos    =     10.1 : 1.0
+                has(dia) = 1                 neu : pos    =     10.1 : 1.0
+               has(pour) = 1                 neu : neg    =     10.0 : 1.0
+               has(hope) = 1                 neg : neu    =     10.0 : 1.0
+               has(room) = 1                 neg : neu    =      9.7 : 1.0
+            has(probabl) = 1                 neg : neu    =      9.7 : 1.0
+                has(goe) = 1                 neg : neu    =      9.7 : 1.0
+             has(restor) = 1                 neg : neu    =      9.7 : 1.0
+None
+######################
+Accuracy : 0.720806794055
+Confusion Matrix
+    |   n   n   p |
+    |   e   e   o |
+    |   g   u   s |
+----+-------------+
+neg |<224> 21  65 |
+neu |  33<284> 23 |
+pos |  91  30<171>|
+----+-------------+
+(row = reference; col = test)
+
+######################
+1 Step Classifier : NaiveBayesClassifier
+Accuracy : 0.725053078556
+######################
+Most Informative Features
+             has(__quer) = None              pos : neu    =    138.3 : 1.0
+               has(nexu) = 1                 neu : neg    =     83.8 : 1.0
+             has(galaxi) = 1                 neu : neg    =     77.5 : 1.0
+                has(sad) = 1                 neg : neu    =     64.1 : 1.0
+                has(que) = 1                 neu : neg    =     55.8 : 1.0
+            has(ballmer) = 1                 neu : pos    =     45.2 : 1.0
+   has(__hash_nexusprim) = 1                 neu : neg    =     43.2 : 1.0
+               has(para) = 1                 neu : pos    =     40.8 : 1.0
+        has(__hash_nexu) = 1                 neu : neg    =     32.3 : 1.0
+                has(amp) = 1                 pos : neu    =     30.4 : 1.0
+               has(hate) = 1                 neg : neu    =     30.1 : 1.0
+            has(android) = 1                 neu : neg    =     28.7 : 1.0
+              has(enjoy) = 1                 pos : neu    =     27.2 : 1.0
+               has(hurt) = 1                 neg : neu    =     26.8 : 1.0
+              has(sorri) = 1                 neg : neu    =     25.9 : 1.0
+              has(steve) = 1                 neu : pos    =     25.2 : 1.0
+              has(happi) = 1                 pos : neu    =     24.8 : 1.0
+     has(__hash_android) = 1                 neu : neg    =     23.7 : 1.0
+           has(sandwich) = 1                 neu : neg    =     23.5 : 1.0
+                 has(lo) = 1                 neu : pos    =     22.7 : 1.0
+               has(miss) = 1                 neg : neu    =     22.6 : 1.0
+           has(birthday) = 1                 pos : neu    =     21.5 : 1.0
+                has(con) = 1                 neu : neg    =     21.5 : 1.0
+                has(ceo) = 1                 neu : neg    =     21.5 : 1.0
+                has(del) = 1                 neu : neg    =     20.9 : 1.0
+      has(__hash_window) = 1                 neu : pos    =     20.6 : 1.0
+            has(samsung) = 1                 neu : neg    =     20.1 : 1.0
+               has(rain) = 1                 neg : neu    =     19.8 : 1.0
+                has(est) = 1                 neu : neg    =     19.7 : 1.0
+               has(noth) = 1                 neg : neu    =     19.0 : 1.0
+  has(__hash_galaxynexu) = 1                 neu : neg    =     18.7 : 1.0
+       has(__hash_cloud) = 1                 neu : neg    =     18.0 : 1.0
+               has(hous) = 1                 neg : neu    =     17.5 : 1.0
+               has(quot) = 1                 pos : neu    =     17.4 : 1.0
+               has(cute) = 1                 pos : neu    =     17.4 : 1.0
+       has(__hash_yahoo) = 1                 neu : pos    =     17.3 : 1.0
+              has(devic) = 1                 neu : neg    =     16.9 : 1.0
+             has(myself) = 1                 neg : neu    =     16.7 : 1.0
+              has(googl) = 1                 neu : neg    =     16.4 : 1.0
+             has(stupid) = 1                 neg : neu    =     15.9 : 1.0
+            has(weather) = 1                 neg : neu    =     15.9 : 1.0
+             has(beauti) = 1                 pos : neu    =     15.8 : 1.0
+               has(luck) = 1                 pos : neu    =     15.8 : 1.0
+  has(__hash_dhilipsiva) = 1                 neu : pos    =     15.6 : 1.0
+               has(left) = 1                 neg : neu    =     15.6 : 1.0
+                has(por) = 1                 neu : pos    =     15.4 : 1.0
+              has(excit) = 1                 pos : neu    =     15.3 : 1.0
+              has(yahoo) = 1                 neu : neg    =     15.2 : 1.0
+                 has(ic) = 1                 neu : neg    =     15.2 : 1.0
+               has(amaz) = 1                 pos : neu    =     15.1 : 1.0
+              has(cream) = 1                 neu : neg    =     15.0 : 1.0
+has(__hash_icecreamsandwich) = 1                 neu : neg    =     14.8 : 1.0
+               has(wont) = 1                 neg : neu    =     14.8 : 1.0
+                has(soo) = 1                 neg : neu    =     14.7 : 1.0
+            has(develop) = 1                 neu : neg    =     14.6 : 1.0
+   has(__hash_omnitouch) = 1                 neu : pos    =     14.5 : 1.0
+                has(hot) = 1                 neg : neu    =     14.4 : 1.0
+               has(movi) = 1                 pos : neu    =     14.4 : 1.0
+              has(sweet) = 1                 pos : neu    =     14.2 : 1.0
+       has(__hash_googl) = 1                 neu : pos    =     14.0 : 1.0
+                has(boo) = 1                 neg : neu    =     13.6 : 1.0
+        has(touchscreen) = 1                 neu : pos    =     13.4 : 1.0
+               has(glad) = 1                 pos : neu    =     13.4 : 1.0
+               has(cant) = 1                 neg : neu    =     13.3 : 1.0
+     has(__hash_samsung) = 1                 neu : neg    =     13.0 : 1.0
+ has(__hash_socialmedia) = 1                 neu : neg    =     12.9 : 1.0
+    has(__hash_facebook) = 1                 neu : pos    =     12.6 : 1.0
+              has(until) = 1                 pos : neu    =     12.6 : 1.0
+              has(smile) = 1                 pos : neu    =     12.6 : 1.0
+               has(2012) = 1                 neu : pos    =     12.3 : 1.0
+             has(unveil) = 1                 neu : neg    =     12.3 : 1.0
+                has(ugh) = 1                 neg : pos    =     12.1 : 1.0
+          has(microsoft) = 1                 neu : neg    =     12.1 : 1.0
+               has(till) = 1                 neg : neu    =     12.0 : 1.0
+                has(ice) = 1                 neu : neg    =     12.0 : 1.0
+               has(bore) = 1                 neg : neu    =     11.8 : 1.0
+             has(rememb) = 1                 pos : neu    =     11.8 : 1.0
+              has(lunch) = 1                 pos : neu    =     11.8 : 1.0
+             has(monday) = 1                 pos : neu    =     11.8 : 1.0
+               has(lost) = 1                 neg : pos    =     11.7 : 1.0
+               has(suck) = 1                 neg : neu    =     11.5 : 1.0
+               has(morn) = 1                 pos : neu    =     11.5 : 1.0
+             has(memori) = 1                 neu : pos    =     11.2 : 1.0
+                has(dan) = 1                 neu : neg    =     11.2 : 1.0
+          has(__hash_ic) = 1                 neu : neg    =     11.0 : 1.0
+             has(awesom) = 1                 pos : neu    =     10.9 : 1.0
+               has(okay) = 1                 pos : neu    =     10.9 : 1.0
+               has(head) = 1                 pos : neu    =     10.9 : 1.0
+            has(brother) = 1                 pos : neu    =     10.9 : 1.0
+    has(__hash_stevejob) = 1                 neu : pos    =     10.7 : 1.0
+                has(ver) = 1                 neu : pos    =     10.7 : 1.0
+                 has(le) = 1                 neu : pos    =     10.7 : 1.0
+                has(web) = 1                 neu : pos    =     10.7 : 1.0
+           has(__hash_b) = 1                 neu : pos    =     10.7 : 1.0
+              has(ebook) = 1                 neu : neg    =     10.6 : 1.0
+               has(fail) = 1                 neg : pos    =     10.5 : 1.0
+               has(poor) = 1                 neg : neu    =     10.5 : 1.0
+               has(room) = 1                 neg : neu    =     10.5 : 1.0
+              has(drink) = 1                 neg : neu    =     10.5 : 1.0
+              has(sound) = 1                 pos : neu    =     10.5 : 1.0
+None
+######################
+Accuracy : 0.725053078556
+Confusion Matrix
+    |   n   n   p |
+    |   e   e   o |
+    |   g   u   s |
+----+-------------+
+neg |<234>  8  64 |
+neu |  36<283> 26 |
+pos |  94  31<166>|
+----+-------------+
+(row = reference; col = test)
+
+######################
+1 Step Classifier : NaiveBayesClassifier
+Accuracy : 0.717622080679
+######################
+Most Informative Features
+             has(__quer) = None              pos : neu    =    163.3 : 1.0
+               has(nexu) = 1                 neu : neg    =     81.6 : 1.0
+                has(sad) = 1                 neg : neu    =     67.1 : 1.0
+                has(que) = 1                 neu : neg    =     57.9 : 1.0
+             has(galaxi) = 1                 neu : neg    =     46.2 : 1.0
+   has(__hash_nexusprim) = 1                 neu : neg    =     45.5 : 1.0
+            has(ballmer) = 1                 neu : pos    =     44.7 : 1.0
+               has(para) = 1                 neu : pos    =     37.1 : 1.0
+        has(__hash_nexu) = 1                 neu : neg    =     31.8 : 1.0
+                has(amp) = 1                 pos : neu    =     31.5 : 1.0
+               has(hurt) = 1                 neg : neu    =     29.9 : 1.0
+               has(hate) = 1                 neg : neu    =     29.1 : 1.0
+               has(rain) = 1                 neg : neu    =     27.6 : 1.0
+            has(android) = 1                 neu : neg    =     27.2 : 1.0
+              has(sorri) = 1                 neg : neu    =     26.3 : 1.0
+                has(ugh) = 1                 neg : neu    =     26.0 : 1.0
+              has(steve) = 1                 neu : pos    =     25.8 : 1.0
+     has(__hash_android) = 1                 neu : neg    =     25.6 : 1.0
+               has(miss) = 1                 neg : neu    =     25.3 : 1.0
+                has(est) = 1                 neu : neg    =     24.9 : 1.0
+               has(quot) = 1                 pos : neu    =     23.0 : 1.0
+                 has(lo) = 1                 neu : pos    =     23.0 : 1.0
+                has(con) = 1                 neu : neg    =     22.8 : 1.0
+           has(sandwich) = 1                 neu : neg    =     22.6 : 1.0
+                has(ceo) = 1                 neu : neg    =     22.0 : 1.0
+                has(del) = 1                 neu : neg    =     22.0 : 1.0
+            has(samsung) = 1                 neu : neg    =     21.1 : 1.0
+                has(por) = 1                 neu : pos    =     21.0 : 1.0
+              has(gonna) = 1                 neg : neu    =     20.3 : 1.0
+has(__hash_icecreamsandwich) = 1                 neu : neg    =     20.1 : 1.0
+  has(__hash_galaxynexu) = 1                 neu : neg    =     20.1 : 1.0
+               has(noth) = 1                 neg : neu    =     19.8 : 1.0
+            has(weather) = 1                 neg : neu    =     19.8 : 1.0
+               has(wont) = 1                 neg : neu    =     19.8 : 1.0
+       has(__hash_cloud) = 1                 neu : neg    =     18.6 : 1.0
+                has(sun) = 1                 neg : neu    =     17.5 : 1.0
+             has(summer) = 1                 pos : neu    =     16.8 : 1.0
+    has(__hash_facebook) = 1                 neu : neg    =     16.7 : 1.0
+             has(myself) = 1                 neg : neu    =     16.7 : 1.0
+            has(without) = 1                 neg : neu    =     16.7 : 1.0
+                 has(la) = 1                 neu : pos    =     16.5 : 1.0
+              has(cream) = 1                 neu : neg    =     16.3 : 1.0
+              has(enjoy) = 1                 pos : neu    =     16.0 : 1.0
+                has(omg) = 1                 neg : neu    =     15.9 : 1.0
+                has(boo) = 1                 neg : neu    =     15.9 : 1.0
+  has(__hash_dhilipsiva) = 1                 neu : pos    =     15.8 : 1.0
+              has(googl) = 1                 neu : neg    =     15.5 : 1.0
+              has(devic) = 1                 neu : neg    =     15.2 : 1.0
+              has(yahoo) = 1                 neu : neg    =     15.2 : 1.0
+             has(doesnt) = 1                 neg : neu    =     15.1 : 1.0
+   has(__hash_omnitouch) = 1                 neu : pos    =     14.9 : 1.0
+              has(happi) = 1                 pos : neu    =     14.7 : 1.0
+              has(gotta) = 1                 pos : neu    =     14.4 : 1.0
+                has(car) = 1                 neg : neu    =     14.4 : 1.0
+                has(hot) = 1                 neg : neu    =     14.4 : 1.0
+      has(__hash_galaxi) = 1                 neu : pos    =     14.4 : 1.0
+                has(soo) = 1                 neg : neu    =     14.2 : 1.0
+               has(movi) = 1                 pos : neu    =     14.0 : 1.0
+                 has(ic) = 1                 neu : neg    =     14.0 : 1.0
+          has(microsoft) = 1                 neu : neg    =     13.9 : 1.0
+             has(stupid) = 1                 neg : neu    =     13.6 : 1.0
+                has(few) = 1                 pos : neu    =     13.5 : 1.0
+ has(__hash_socialmedia) = 1                 neu : neg    =     13.5 : 1.0
+                has(dan) = 1                 neu : neg    =     13.5 : 1.0
+               has(glad) = 1                 pos : neu    =     13.0 : 1.0
+           has(__hash_b) = 1                 neu : pos    =     12.7 : 1.0
+               has(2012) = 1                 neu : pos    =     12.7 : 1.0
+              has(lunch) = 1                 pos : neu    =     12.7 : 1.0
+                has(ice) = 1                 neu : neg    =     12.7 : 1.0
+        has(__hash_appl) = 1                 neu : pos    =     12.6 : 1.0
+                 has(le) = 1                 neu : pos    =     12.2 : 1.0
+                has(bad) = 1                 neg : neu    =     12.0 : 1.0
+               has(amaz) = 1                 pos : neu    =     11.9 : 1.0
+              has(coffe) = 1                 pos : neu    =     11.9 : 1.0
+            has(brother) = 1                 pos : neu    =     11.9 : 1.0
+             has(almost) = 1                 pos : neu    =     11.9 : 1.0
+               has(caus) = 1                 neg : neu    =     11.9 : 1.0
+              has(excit) = 1                 pos : neu    =     11.8 : 1.0
+               has(cant) = 1                 neg : neu    =     11.8 : 1.0
+       has(__hash_googl) = 1                 neu : neg    =     11.7 : 1.0
+        has(touchscreen) = 1                 neu : pos    =     11.6 : 1.0
+             has(restor) = 1                 neg : neu    =     11.3 : 1.0
+              has(drink) = 1                 neg : neu    =     11.3 : 1.0
+               has(hair) = 1                 neg : neu    =     11.3 : 1.0
+       has(__hash_yahoo) = 1                 neu : pos    =     11.2 : 1.0
+      has(__hash_window) = 1                 neu : pos    =     11.2 : 1.0
+     has(__hash_samsung) = 1                 neu : neg    =     11.2 : 1.0
+             has(memori) = 1                 neu : neg    =     11.2 : 1.0
+            has(develop) = 1                 neu : neg    =     11.2 : 1.0
+              has(ebook) = 1                 neu : neg    =     11.2 : 1.0
+               has(okay) = 1                 pos : neu    =     11.1 : 1.0
+              has(sweet) = 1                 pos : neu    =     11.1 : 1.0
+              has(smile) = 1                 pos : neu    =     11.1 : 1.0
+               has(hehe) = 1                 pos : neu    =     11.1 : 1.0
+            has(announc) = 1                 neu : pos    =     10.9 : 1.0
+          has(__hash_ic) = 1                 neu : neg    =     10.9 : 1.0
+               has(wish) = 1                 neg : neu    =     10.8 : 1.0
+                has(ill) = 1                 pos : neu    =     10.7 : 1.0
+               has(user) = 1                 neu : neg    =     10.7 : 1.0
+               has(pour) = 1                 neu : neg    =     10.6 : 1.0
+None
+######################
+Accuracy : 0.717622080679
+Confusion Matrix
+    |   n   n   p |
+    |   e   e   o |
+    |   g   u   s |
+----+-------------+
+neg |<205> 14  76 |
+neu |  39<275> 20 |
+pos |  96  21<196>|
+----+-------------+
+(row = reference; col = test)
+
+######################
+1 Step Classifier : NaiveBayesClassifier
+Accuracy : 0.743099787686
+######################
+Most Informative Features
+             has(__quer) = None              pos : neu    =    145.0 : 1.0
+                has(que) = 1                 neu : neg    =     90.0 : 1.0
+               has(nexu) = 1                 neu : neg    =     84.3 : 1.0
+                has(sad) = 1                 neg : neu    =     64.9 : 1.0
+             has(galaxi) = 1                 neu : neg    =     47.2 : 1.0
+   has(__hash_nexusprim) = 1                 neu : neg    =     45.4 : 1.0
+            has(ballmer) = 1                 neu : pos    =     44.5 : 1.0
+                has(amp) = 1                 pos : neu    =     40.3 : 1.0
+               has(para) = 1                 neu : pos    =     39.1 : 1.0
+        has(__hash_nexu) = 1                 neu : neg    =     31.2 : 1.0
+               has(hate) = 1                 neg : neu    =     29.6 : 1.0
+               has(hurt) = 1                 neg : neu    =     28.4 : 1.0
+            has(android) = 1                 neu : neg    =     27.5 : 1.0
+              has(steve) = 1                 neu : pos    =     26.4 : 1.0
+               has(rain) = 1                 neg : neu    =     26.0 : 1.0
+                has(ugh) = 1                 neg : neu    =     26.0 : 1.0
+              has(sorri) = 1                 neg : neu    =     24.5 : 1.0
+                 has(lo) = 1                 neu : neg    =     23.7 : 1.0
+                has(del) = 1                 neu : neg    =     23.7 : 1.0
+     has(__hash_android) = 1                 neu : neg    =     23.4 : 1.0
+           has(sandwich) = 1                 neu : neg    =     22.2 : 1.0
+            has(samsung) = 1                 neu : neg    =     22.1 : 1.0
+                has(ceo) = 1                 neu : neg    =     20.9 : 1.0
+                has(con) = 1                 neu : neg    =     20.7 : 1.0
+               has(noth) = 1                 neg : neu    =     20.6 : 1.0
+             has(summer) = 1                 neg : neu    =     19.8 : 1.0
+              has(googl) = 1                 neu : neg    =     18.9 : 1.0
+       has(__hash_cloud) = 1                 neu : neg    =     18.6 : 1.0
+               has(miss) = 1                 neg : neu    =     18.5 : 1.0
+              has(enjoy) = 1                 pos : neu    =     18.3 : 1.0
+            has(weather) = 1                 neg : neu    =     18.3 : 1.0
+                has(sun) = 1                 neg : neu    =     17.5 : 1.0
+              has(devic) = 1                 neu : neg    =     17.4 : 1.0
+               has(wont) = 1                 neg : neu    =     16.2 : 1.0
+                 has(la) = 1                 neu : pos    =     16.1 : 1.0
+              has(happi) = 1                 pos : neu    =     16.1 : 1.0
+              has(cream) = 1                 neu : neg    =     16.1 : 1.0
+             has(myself) = 1                 neg : neu    =     15.9 : 1.0
+              has(excit) = 1                 pos : neu    =     15.9 : 1.0
+              has(yahoo) = 1                 neu : neg    =     15.7 : 1.0
+                has(soo) = 1                 neg : neu    =     15.6 : 1.0
+  has(__hash_dhilipsiva) = 1                 neu : pos    =     15.2 : 1.0
+               has(left) = 1                 neg : neu    =     15.2 : 1.0
+                has(por) = 1                 neu : pos    =     15.1 : 1.0
+            has(develop) = 1                 neu : neg    =     14.6 : 1.0
+has(__hash_icecreamsandwich) = 1                 neu : neg    =     14.6 : 1.0
+               has(quot) = 1                 pos : neu    =     14.5 : 1.0
+   has(__hash_omnitouch) = 1                 neu : pos    =     14.5 : 1.0
+             has(stupid) = 1                 neg : neu    =     14.4 : 1.0
+               has(poor) = 1                 neg : pos    =     14.3 : 1.0
+  has(__hash_galaxynexu) = 1                 neu : neg    =     14.1 : 1.0
+           has(birthday) = 1                 pos : neu    =     13.9 : 1.0
+               has(movi) = 1                 pos : neu    =     13.9 : 1.0
+                has(boo) = 1                 neg : neu    =     13.6 : 1.0
+           has(__hash_b) = 1                 neu : pos    =     12.8 : 1.0
+               has(2012) = 1                 neu : pos    =     12.8 : 1.0
+             has(anymor) = 1                 neg : neu    =     12.8 : 1.0
+               has(sinc) = 1                 neg : neu    =     12.8 : 1.0
+          has(microsoft) = 1                 neu : neg    =     12.7 : 1.0
+     has(__hash_samsung) = 1                 neu : neg    =     12.7 : 1.0
+                 has(le) = 1                 neu : pos    =     12.3 : 1.0
+      has(__hash_window) = 1                 neu : pos    =     12.3 : 1.0
+ has(__hash_socialmedia) = 1                 neu : neg    =     12.3 : 1.0
+               has(crap) = 1                 neg : neu    =     12.1 : 1.0
+                has(wtf) = 1                 neg : neu    =     12.1 : 1.0
+               has(caus) = 1                 neg : neu    =     11.9 : 1.0
+                has(bad) = 1                 neg : neu    =     11.8 : 1.0
+               has(okay) = 1                 pos : neu    =     11.8 : 1.0
+               has(amaz) = 1                 pos : neu    =     11.8 : 1.0
+               has(cant) = 1                 neg : neu    =     11.6 : 1.0
+                has(ice) = 1                 neu : neg    =     11.3 : 1.0
+              has(drink) = 1                 neg : neu    =     11.3 : 1.0
+               has(tool) = 1                 neu : neg    =     11.1 : 1.0
+              has(alway) = 1                 pos : neu    =     11.0 : 1.0
+               has(song) = 1                 pos : neu    =     11.0 : 1.0
+                has(ill) = 1                 pos : neu    =     11.0 : 1.0
+               has(hehe) = 1                 pos : neu    =     11.0 : 1.0
+              has(parti) = 1                 pos : neu    =     11.0 : 1.0
+                has(fix) = 1                 neg : neu    =     10.8 : 1.0
+               has(wish) = 1                 neg : neu    =     10.8 : 1.0
+       has(__hash_yahoo) = 1                 neu : pos    =     10.7 : 1.0
+              has(ebook) = 1                 neu : neg    =     10.6 : 1.0
+               has(fail) = 1                 neg : pos    =     10.5 : 1.0
+               has(room) = 1                 neg : neu    =     10.5 : 1.0
+            has(current) = 1                 neg : neu    =     10.5 : 1.0
+              has(lunch) = 1                 neg : neu    =     10.5 : 1.0
+              has(clean) = 1                 neg : neu    =     10.5 : 1.0
+    has(__hash_facebook) = 1                 neu : pos    =     10.3 : 1.0
+       has(__hash_googl) = 1                 neu : pos    =     10.2 : 1.0
+             has(rememb) = 1                 pos : neu    =     10.2 : 1.0
+              has(smile) = 1                 pos : neu    =     10.2 : 1.0
+              has(again) = 1                 neg : neu    =     10.1 : 1.0
+               has(news) = 1                 neu : pos    =     10.1 : 1.0
+                has(web) = 1                 neu : pos    =     10.1 : 1.0
+                has(dia) = 1                 neu : pos    =     10.1 : 1.0
+             has(unveil) = 1                 neu : neg    =     10.0 : 1.0
+               has(glad) = 1                 pos : neu    =      9.9 : 1.0
+            has(network) = 1                 neg : pos    =      9.9 : 1.0
+              has(gonna) = 1                 neg : neu    =      9.9 : 1.0
+               has(suck) = 1                 neg : neu    =      9.7 : 1.0
+None
+######################
+Accuracy : 0.743099787686
+Confusion Matrix
+    |   n   n   p |
+    |   e   e   o |
+    |   g   u   s |
+----+-------------+
+neg |<227> 12  67 |
+neu |  31<279> 31 |
+pos |  83  18<194>|
+----+-------------+
+(row = reference; col = test)
+
+######################
+1 Step Classifier : NaiveBayesClassifier
+Accuracy : 0.738853503185
+######################
+Most Informative Features
+             has(__quer) = None              pos : neu    =    172.7 : 1.0
+               has(nexu) = 1                 neu : neg    =     81.2 : 1.0
+                has(sad) = 1                 neg : neu    =     60.0 : 1.0
+                has(que) = 1                 neu : neg    =     53.5 : 1.0
+             has(galaxi) = 1                 neu : neg    =     45.3 : 1.0
+   has(__hash_nexusprim) = 1                 neu : pos    =     43.0 : 1.0
+                has(amp) = 1                 pos : neu    =     39.2 : 1.0
+               has(para) = 1                 neu : pos    =     36.9 : 1.0
+        has(__hash_nexu) = 1                 neu : neg    =     31.8 : 1.0
+               has(hate) = 1                 neg : neu    =     29.0 : 1.0
+            has(android) = 1                 neu : neg    =     29.0 : 1.0
+              has(steve) = 1                 neu : pos    =     25.8 : 1.0
+                has(ugh) = 1                 neg : neu    =     25.2 : 1.0
+     has(__hash_android) = 1                 neu : neg    =     25.1 : 1.0
+               has(rain) = 1                 neg : neu    =     24.4 : 1.0
+                has(est) = 1                 neu : neg    =     24.4 : 1.0
+              has(sorri) = 1                 neg : neu    =     23.5 : 1.0
+                has(con) = 1                 neu : neg    =     23.2 : 1.0
+                 has(lo) = 1                 neu : pos    =     23.0 : 1.0
+           has(sandwich) = 1                 neu : neg    =     22.9 : 1.0
+            has(samsung) = 1                 neu : neg    =     21.5 : 1.0
+                has(del) = 1                 neu : neg    =     21.5 : 1.0
+               has(bore) = 1                 neg : neu    =     20.7 : 1.0
+            has(weather) = 1                 neg : neu    =     19.8 : 1.0
+            has(ballmer) = 1                 neu : neg    =     19.5 : 1.0
+               has(miss) = 1                 neg : neu    =     19.3 : 1.0
+               has(noth) = 1                 neg : neu    =     19.0 : 1.0
+             has(summer) = 1                 neg : neu    =     19.0 : 1.0
+              has(googl) = 1                 neu : neg    =     18.2 : 1.0
+              has(enjoy) = 1                 pos : neu    =     18.0 : 1.0
+              has(excit) = 1                 pos : neu    =     17.6 : 1.0
+       has(__hash_yahoo) = 1                 neu : pos    =     17.5 : 1.0
+                has(sun) = 1                 neg : neu    =     17.4 : 1.0
+             has(myself) = 1                 neg : neu    =     17.4 : 1.0
+                has(ceo) = 1                 neu : neg    =     16.9 : 1.0
+                 has(la) = 1                 neu : pos    =     16.4 : 1.0
+              has(devic) = 1                 neu : neg    =     16.4 : 1.0
+     has(__hash_samsung) = 1                 neu : neg    =     16.4 : 1.0
+               has(poor) = 1                 neg : neu    =     15.9 : 1.0
+                has(hot) = 1                 neg : neu    =     15.9 : 1.0
+  has(__hash_dhilipsiva) = 1                 neu : pos    =     15.5 : 1.0
+              has(happi) = 1                 pos : neu    =     15.4 : 1.0
+  has(__hash_galaxynexu) = 1                 neu : neg    =     14.9 : 1.0
+              has(cream) = 1                 neu : neg    =     14.6 : 1.0
+                has(por) = 1                 neu : pos    =     14.6 : 1.0
+               has(wont) = 1                 neg : neu    =     14.4 : 1.0
+               has(quot) = 1                 pos : neu    =     14.3 : 1.0
+has(__hash_icecreamsandwich) = 1                 neu : neg    =     14.1 : 1.0
+              has(yahoo) = 1                 neu : neg    =     14.1 : 1.0
+                 has(ic) = 1                 neu : neg    =     14.1 : 1.0
+                has(few) = 1                 pos : neu    =     14.0 : 1.0
+                has(soo) = 1                 neg : neu    =     13.7 : 1.0
+               has(movi) = 1                 pos : neu    =     13.7 : 1.0
+               has(2012) = 1                 neu : pos    =     13.6 : 1.0
+                has(boo) = 1                 neg : neu    =     13.6 : 1.0
+            has(develop) = 1                 neu : neg    =     13.5 : 1.0
+              has(lunch) = 1                 pos : neu    =     13.2 : 1.0
+              has(smile) = 1                 pos : neu    =     13.2 : 1.0
+              has(sweet) = 1                 pos : neu    =     13.2 : 1.0
+         has(__hash_wp7) = 1                 neu : pos    =     13.0 : 1.0
+        has(touchscreen) = 1                 neu : pos    =     13.0 : 1.0
+   has(__hash_omnitouch) = 1                 neu : pos    =     13.0 : 1.0
+           has(__hash_b) = 1                 neu : pos    =     12.5 : 1.0
+               has(okay) = 1                 pos : neu    =     12.4 : 1.0
+ has(__hash_socialmedia) = 1                 neu : neg    =     12.3 : 1.0
+      has(__hash_window) = 1                 neu : pos    =     12.1 : 1.0
+              has(until) = 1                 neg : neu    =     12.0 : 1.0
+                has(wtf) = 1                 neg : neu    =     12.0 : 1.0
+       has(__hash_mobil) = 1                 neu : pos    =     11.9 : 1.0
+        has(__hash_tech) = 1                 neu : pos    =     11.9 : 1.0
+               has(issu) = 1                 neg : pos    =     11.9 : 1.0
+          has(microsoft) = 1                 neu : neg    =     11.9 : 1.0
+             has(awesom) = 1                 pos : neu    =     11.8 : 1.0
+             has(unveil) = 1                 neu : neg    =     11.8 : 1.0
+                has(dan) = 1                 neu : neg    =     11.8 : 1.0
+             has(doesnt) = 1                 neg : neu    =     11.7 : 1.0
+                has(ice) = 1                 neu : neg    =     11.7 : 1.0
+             has(almost) = 1                 pos : neu    =     11.6 : 1.0
+               has(cant) = 1                 neg : neu    =     11.6 : 1.0
+             has(memori) = 1                 neu : pos    =     11.4 : 1.0
+             has(stupid) = 1                 neg : neu    =     11.2 : 1.0
+               has(woke) = 1                 neg : neu    =     11.2 : 1.0
+               has(amaz) = 1                 pos : neu    =     11.1 : 1.0
+    has(__hash_facebook) = 1                 neu : pos    =     11.1 : 1.0
+              has(sound) = 1                 pos : neu    =     10.8 : 1.0
+             has(rememb) = 1                 pos : neu    =     10.8 : 1.0
+               has(wish) = 1                 neg : neu    =     10.7 : 1.0
+           has(internet) = 1                 neg : pos    =     10.6 : 1.0
+              has(build) = 1                 neu : neg    =     10.6 : 1.0
+       has(__hash_googl) = 1                 neu : pos    =     10.6 : 1.0
+       has(__hash_cloud) = 1                 neu : pos    =     10.5 : 1.0
+              has(alway) = 1                 pos : neu    =     10.5 : 1.0
+              has(littl) = 1                 pos : neu    =     10.5 : 1.0
+               has(fall) = 1                 neg : neu    =     10.5 : 1.0
+             has(forgot) = 1                 neg : neu    =     10.5 : 1.0
+             has(restor) = 1                 neg : neu    =     10.5 : 1.0
+               has(crap) = 1                 neg : neu    =     10.5 : 1.0
+               has(cute) = 1                 pos : neu    =     10.3 : 1.0
+               has(news) = 1                 neu : pos    =     10.3 : 1.0
+               has(song) = 1                 pos : neu    =     10.1 : 1.0
+None
+######################
+Accuracy : 0.738853503185
+Confusion Matrix
+    |   n   n   p |
+    |   e   e   o |
+    |   g   u   s |
+----+-------------+
+neg |<239>  8  64 |
+neu |  37<289> 33 |
+pos |  85  19<168>|
+----+-------------+
+(row = reference; col = test)
+
+######################
+1 Step Classifier : NaiveBayesClassifier
+Accuracy : 0.725053078556
+######################
+Most Informative Features
+             has(__quer) = None              pos : neu    =    144.6 : 1.0
+               has(nexu) = 1                 neu : neg    =     81.5 : 1.0
+                has(sad) = 1                 neg : neu    =     67.0 : 1.0
+                has(que) = 1                 neu : neg    =     54.5 : 1.0
+             has(galaxi) = 1                 neu : neg    =     46.1 : 1.0
+   has(__hash_nexusprim) = 1                 neu : neg    =     44.4 : 1.0
+            has(ballmer) = 1                 neu : pos    =     43.4 : 1.0
+              has(steve) = 1                 neu : pos    =     42.3 : 1.0
+            has(android) = 1                 neu : neg    =     34.2 : 1.0
+               has(hate) = 1                 neg : neu    =     29.7 : 1.0
+        has(__hash_nexu) = 1                 neu : neg    =     29.3 : 1.0
+                has(amp) = 1                 pos : neu    =     28.7 : 1.0
+                has(est) = 1                 neu : neg    =     25.8 : 1.0
+               has(hurt) = 1                 neg : neu    =     25.7 : 1.0
+               has(rain) = 1                 neg : neu    =     24.9 : 1.0
+              has(sorri) = 1                 neg : neu    =     24.1 : 1.0
+               has(miss) = 1                 neg : neu    =     23.8 : 1.0
+                has(soo) = 1                 neg : neu    =     23.4 : 1.0
+     has(__hash_android) = 1                 neu : neg    =     23.2 : 1.0
+                 has(lo) = 1                 neu : pos    =     23.0 : 1.0
+                has(ugh) = 1                 neg : neu    =     22.6 : 1.0
+           has(sandwich) = 1                 neu : neg    =     22.4 : 1.0
+                has(con) = 1                 neu : neg    =     21.4 : 1.0
+                has(del) = 1                 neu : neg    =     21.2 : 1.0
+            has(weather) = 1                 neg : neu    =     20.3 : 1.0
+             has(summer) = 1                 neg : neu    =     19.5 : 1.0
+  has(__hash_galaxynexu) = 1                 neu : neg    =     19.3 : 1.0
+       has(__hash_cloud) = 1                 neu : neg    =     18.9 : 1.0
+               has(noth) = 1                 neg : neu    =     18.8 : 1.0
+                has(ceo) = 1                 neu : neg    =     18.3 : 1.0
+             has(myself) = 1                 neg : neu    =     18.0 : 1.0
+                 has(la) = 1                 neu : pos    =     17.4 : 1.0
+              has(devic) = 1                 neu : neg    =     17.1 : 1.0
+          has(microsoft) = 1                 neu : neg    =     16.8 : 1.0
+              has(enjoy) = 1                 pos : neu    =     16.6 : 1.0
+              has(happi) = 1                 pos : neu    =     16.5 : 1.0
+                has(sun) = 1                 neg : neu    =     16.5 : 1.0
+                has(ill) = 1                 pos : neu    =     15.9 : 1.0
+               has(wont) = 1                 neg : neu    =     15.9 : 1.0
+              has(googl) = 1                 neu : neg    =     15.8 : 1.0
+             has(stupid) = 1                 neg : neu    =     15.7 : 1.0
+                has(por) = 1                 neu : pos    =     15.3 : 1.0
+               has(left) = 1                 neg : neu    =     14.9 : 1.0
+              has(yahoo) = 1                 neu : neg    =     14.8 : 1.0
+  has(__hash_dhilipsiva) = 1                 neu : pos    =     14.8 : 1.0
+              has(cream) = 1                 neu : neg    =     14.4 : 1.0
+               has(movi) = 1                 pos : neu    =     14.2 : 1.0
+                 has(ic) = 1                 neu : neg    =     14.2 : 1.0
+               has(quot) = 1                 pos : neu    =     14.1 : 1.0
+              has(sweet) = 1                 pos : neu    =     14.1 : 1.0
+has(__hash_icecreamsandwich) = 1                 neu : neg    =     14.0 : 1.0
+               has(cant) = 1                 neg : neu    =     13.6 : 1.0
+               has(2012) = 1                 neu : pos    =     13.6 : 1.0
+                has(boo) = 1                 neg : neu    =     13.4 : 1.0
+          has(__hash_ic) = 1                 neu : neg    =     13.1 : 1.0
+                has(dan) = 1                 neu : neg    =     13.1 : 1.0
+           has(__hash_b) = 1                 neu : pos    =     13.0 : 1.0
+   has(__hash_omnitouch) = 1                 neu : pos    =     13.0 : 1.0
+                has(ice) = 1                 neu : neg    =     12.8 : 1.0
+                 has(le) = 1                 neu : pos    =     12.5 : 1.0
+             has(almost) = 1                 pos : neu    =     12.4 : 1.0
+             has(awesom) = 1                 pos : neu    =     12.3 : 1.0
+              has(excit) = 1                 pos : neu    =     12.2 : 1.0
+        has(touchscreen) = 1                 neu : pos    =     11.9 : 1.0
+            has(develop) = 1                 neu : neg    =     11.9 : 1.0
+                has(hot) = 1                 neg : neu    =     11.9 : 1.0
+               has(quit) = 1                 neg : neu    =     11.9 : 1.0
+               has(okay) = 1                 pos : neu    =     11.6 : 1.0
+              has(coffe) = 1                 pos : neu    =     11.6 : 1.0
+            has(brother) = 1                 pos : neu    =     11.6 : 1.0
+      has(__hash_window) = 1                 neu : pos    =     11.5 : 1.0
+                has(ver) = 1                 neu : pos    =     11.3 : 1.0
+              has(alway) = 1                 pos : neu    =     11.3 : 1.0
+               has(hous) = 1                 pos : neu    =     11.3 : 1.0
+             has(unveil) = 1                 neu : neg    =     11.3 : 1.0
+              has(ebook) = 1                 neu : neg    =     11.3 : 1.0
+               has(went) = 1                 neg : neu    =     11.3 : 1.0
+               has(issu) = 1                 neg : pos    =     11.1 : 1.0
+              has(avail) = 1                 neu : pos    =     11.1 : 1.0
+            has(announc) = 1                 neu : pos    =     11.1 : 1.0
+                has(cut) = 1                 neg : neu    =     11.1 : 1.0
+     has(__hash_samsung) = 1                 neu : neg    =     10.9 : 1.0
+                has(bad) = 1                 neg : neu    =     10.9 : 1.0
+               has(amaz) = 1                 pos : neu    =     10.8 : 1.0
+             has(monday) = 1                 pos : neu    =     10.8 : 1.0
+              has(smile) = 1                 pos : neg    =     10.8 : 1.0
+       has(__hash_mobil) = 1                 neu : pos    =     10.8 : 1.0
+    has(__hash_facebook) = 1                 neu : neg    =     10.8 : 1.0
+ has(__hash_socialmedia) = 1                 neu : neg    =     10.7 : 1.0
+               has(pour) = 1                 neu : neg    =     10.7 : 1.0
+               has(suck) = 1                 neg : neu    =     10.6 : 1.0
+               has(fail) = 1                 neg : pos    =     10.5 : 1.0
+                has(wtf) = 1                 neg : pos    =     10.5 : 1.0
+               has(wish) = 1                 neg : neu    =     10.5 : 1.0
+       has(__hash_yahoo) = 1                 neu : pos    =     10.5 : 1.0
+               has(cute) = 1                 pos : neu    =     10.4 : 1.0
+               has(head) = 1                 pos : neu    =     10.4 : 1.0
+               has(woke) = 1                 neg : neu    =     10.3 : 1.0
+              has(drink) = 1                 neg : neu    =     10.3 : 1.0
+               has(crap) = 1                 neg : neu    =     10.3 : 1.0
+None
+######################
+Accuracy : 0.725053078556
+Confusion Matrix
+    |   n   n   p |
+    |   e   e   o |
+    |   g   u   s |
+----+-------------+
+neg |<207> 23  59 |
+neu |  41<298> 29 |
+pos |  83  24<178>|
+----+-------------+
+(row = reference; col = test)
+
+######################
+1 Step Classifier : NaiveBayesClassifier
+Accuracy : 0.749469214437
+######################
+Most Informative Features
+             has(__quer) = None              pos : neu    =    145.4 : 1.0
+               has(nexu) = 1                 neu : neg    =     84.7 : 1.0
+                has(sad) = 1                 neg : neu    =     68.5 : 1.0
+                has(que) = 1                 neu : neg    =     53.9 : 1.0
+               has(hate) = 1                 neg : neu    =     51.5 : 1.0
+            has(ballmer) = 1                 neu : pos    =     49.7 : 1.0
+             has(galaxi) = 1                 neu : neg    =     47.7 : 1.0
+   has(__hash_nexusprim) = 1                 neu : neg    =     46.2 : 1.0
+            has(android) = 1                 neu : neg    =     36.5 : 1.0
+               has(para) = 1                 neu : pos    =     36.3 : 1.0
+        has(__hash_nexu) = 1                 neu : neg    =     31.3 : 1.0
+                has(amp) = 1                 pos : neu    =     29.7 : 1.0
+               has(hurt) = 1                 neg : neu    =     29.0 : 1.0
+              has(steve) = 1                 neu : pos    =     28.5 : 1.0
+               has(rain) = 1                 neg : neu    =     27.5 : 1.0
+              has(sorri) = 1                 neg : neu    =     25.3 : 1.0
+  has(__hash_dhilipsiva) = 1                 neu : pos    =     24.7 : 1.0
+                has(ugh) = 1                 neg : neu    =     24.4 : 1.0
+                 has(lo) = 1                 neu : pos    =     23.0 : 1.0
+                has(est) = 1                 neu : neg    =     22.7 : 1.0
+           has(sandwich) = 1                 neu : neg    =     21.7 : 1.0
+     has(__hash_android) = 1                 neu : neg    =     21.5 : 1.0
+                has(por) = 1                 neu : pos    =     21.1 : 1.0
+              has(avail) = 1                 neu : pos    =     20.8 : 1.0
+            has(samsung) = 1                 neu : neg    =     20.5 : 1.0
+                has(ceo) = 1                 neu : neg    =     20.4 : 1.0
+                has(con) = 1                 neu : neg    =     20.1 : 1.0
+               has(noth) = 1                 neg : neu    =     19.7 : 1.0
+                has(god) = 1                 neg : neu    =     19.0 : 1.0
+            has(weather) = 1                 neg : neu    =     19.0 : 1.0
+               has(miss) = 1                 neg : neu    =     18.9 : 1.0
+              has(happi) = 1                 pos : neu    =     18.8 : 1.0
+has(__hash_icecreamsandwich) = 1                 neu : neg    =     18.8 : 1.0
+               has(quot) = 1                 pos : neu    =     18.3 : 1.0
+       has(__hash_cloud) = 1                 neu : neg    =     17.5 : 1.0
+             has(myself) = 1                 neg : neu    =     17.4 : 1.0
+              has(enjoy) = 1                 pos : neu    =     17.1 : 1.0
+          has(microsoft) = 1                 neu : neg    =     16.9 : 1.0
+             has(summer) = 1                 pos : neu    =     16.4 : 1.0
+                 has(la) = 1                 neu : pos    =     16.4 : 1.0
+              has(googl) = 1                 neu : neg    =     15.9 : 1.0
+                has(sun) = 1                 neg : neu    =     15.9 : 1.0
+                has(hot) = 1                 neg : neu    =     15.9 : 1.0
+   has(__hash_omnitouch) = 1                 neu : pos    =     15.8 : 1.0
+              has(devic) = 1                 neu : neg    =     15.8 : 1.0
+              has(cream) = 1                 neu : neg    =     15.7 : 1.0
+                 has(ic) = 1                 neu : neg    =     15.2 : 1.0
+                has(omg) = 1                 neg : neu    =     15.1 : 1.0
+              has(sweet) = 1                 pos : neu    =     14.8 : 1.0
+               has(wont) = 1                 neg : neu    =     14.8 : 1.0
+               has(movi) = 1                 pos : neu    =     14.7 : 1.0
+               has(fail) = 1                 neg : pos    =     14.5 : 1.0
+                has(boo) = 1                 neg : neu    =     14.3 : 1.0
+               has(2012) = 1                 neu : pos    =     14.2 : 1.0
+            has(develop) = 1                 neu : neg    =     14.1 : 1.0
+                has(soo) = 1                 neg : neu    =     13.7 : 1.0
+  has(__hash_galaxynexu) = 1                 neu : neg    =     13.7 : 1.0
+           has(__hash_b) = 1                 neu : pos    =     13.6 : 1.0
+             has(stupid) = 1                 neg : neu    =     13.6 : 1.0
+               has(took) = 1                 neg : neu    =     13.6 : 1.0
+               has(amaz) = 1                 pos : neu    =     13.2 : 1.0
+              has(excit) = 1                 pos : neu    =     12.9 : 1.0
+                 has(le) = 1                 neu : pos    =     12.5 : 1.0
+              has(smile) = 1                 pos : neu    =     12.4 : 1.0
+             has(almost) = 1                 pos : neu    =     12.4 : 1.0
+     has(__hash_samsung) = 1                 neu : neg    =     12.4 : 1.0
+                has(dan) = 1                 neu : neg    =     12.3 : 1.0
+               has(caus) = 1                 neg : neu    =     12.3 : 1.0
+                has(ice) = 1                 neu : neg    =     12.2 : 1.0
+      has(__hash_window) = 1                 neu : pos    =     12.2 : 1.0
+               has(cant) = 1                 neg : neu    =     12.1 : 1.0
+        has(touchscreen) = 1                 neu : pos    =     11.9 : 1.0
+               has(wish) = 1                 neg : neu    =     11.7 : 1.0
+               has(okay) = 1                 pos : neu    =     11.6 : 1.0
+             has(rememb) = 1                 pos : neu    =     11.6 : 1.0
+               has(head) = 1                 pos : neu    =     11.3 : 1.0
+               has(quit) = 1                 neg : neu    =     11.2 : 1.0
+               has(crap) = 1                 neg : neu    =     11.2 : 1.0
+               has(hope) = 1                 neg : neu    =     11.2 : 1.0
+               has(pour) = 1                 neu : neg    =     11.2 : 1.0
+             has(unveil) = 1                 neu : neg    =     11.2 : 1.0
+    has(__hash_facebook) = 1                 neu : neg    =     11.2 : 1.0
+               has(poor) = 1                 neg : neu    =     10.9 : 1.0
+              has(lunch) = 1                 pos : neu    =     10.8 : 1.0
+            has(brother) = 1                 pos : neu    =     10.8 : 1.0
+               has(left) = 1                 neg : neu    =     10.8 : 1.0
+             has(school) = 1                 neg : neu    =     10.8 : 1.0
+               has(morn) = 1                 pos : neu    =     10.6 : 1.0
+                has(war) = 1                 neu : neg    =     10.6 : 1.0
+                has(tip) = 1                 neu : neg    =     10.6 : 1.0
+       has(__hash_googl) = 1                 neu : pos    =     10.6 : 1.0
+       has(__hash_yahoo) = 1                 neu : pos    =     10.5 : 1.0
+               has(cute) = 1                 pos : neu    =     10.3 : 1.0
+               has(luck) = 1                 pos : neu    =     10.3 : 1.0
+    has(__hash_stevejob) = 1                 neu : pos    =     10.3 : 1.0
+      has(__hash_kinect) = 1                 neu : pos    =     10.3 : 1.0
+       has(__hash_mobil) = 1                 neu : pos    =     10.3 : 1.0
+        has(__hash_siri) = 1                 neu : pos    =     10.2 : 1.0
+             has(social) = 1                 neu : neg    =     10.0 : 1.0
+  has(__hash_sharepoint) = 1                 neu : neg    =     10.0 : 1.0
+None
+######################
+Accuracy : 0.749469214437
+Confusion Matrix
+    |   n   n   p |
+    |   e   e   o |
+    |   g   u   s |
+----+-------------+
+neg |<242> 19  50 |
+neu |  27<306> 27 |
+pos |  84  29<158>|
+----+-------------+
+(row = reference; col = test)
+
+Accuracies: [0.7412513255567338, 0.7242841993637328, 0.7423117709437964, 0.7208067940552016, 0.7250530785562632, 0.7176220806794055, 0.7430997876857749, 0.7388535031847133, 0.7250530785562632, 0.7494692144373672]
+Average Accuracy: 0.732780483302
